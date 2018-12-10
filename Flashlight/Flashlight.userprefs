@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Flashlight1\flashlightcontrol.cs">
+    <Files>
+      <File FileName="Assets\Flashlight1\BearLogic2.cs" Line="16" Column="5" />
+      <File FileName="Assets\Flashlight1\FPSConCollider.cs" Line="48" Column="5" />
+      <File FileName="Assets\Flashlight1\ObjectiveIntro.cs" Line="1" Column="1" />
+      <File FileName="Assets\Flashlight1\HutTextController.cs" Line="21" Column="21" />
+      <File FileName="Assets\Flashlight1\CreateForest.cs" Line="10" Column="3" />
+      <File FileName="Assets\Flashlight1\flashlightcontrol.cs" Line="93" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
